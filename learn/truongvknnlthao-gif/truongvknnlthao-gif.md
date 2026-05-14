@@ -1,0 +1,6 @@
+- 昵称：Thảo Trương vknnl
+- GitHub 用户名：truongvknnlthao-gif
+- 微信：未填写
+- Aleo 钱包地址：待补充
+- 技术栈：Web3、区块链基础、隐私应用学习中
+- 自我介绍：对 ZK、隐私计算和 Web3 应用开发感兴趣，希望通过 Aleo 101 Bootcamp 系统学习 Leo 语言和 Aleo 隐私应用开发流程，并完成一个真实可运行的隐私 dApp。
